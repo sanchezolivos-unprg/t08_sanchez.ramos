@@ -18,3 +18,10 @@ print("longitud = ", len(msg2)) # imprime la longitud de la cadena mg2
 cadena1="ESTIPHEN HAWKING DIJO, MIENTRAS HAYA VIDA HAY ESPERANZA"
 
 print("la cadena 1 tiene", len(cadena1), "elementos") # imprime la longitud de la cadena 1
+
+# LONGITUD 4:
+#        0         1         2         3         4
+#        012345678901234567890123456789012345678901
+cadena2="VIVAMOS. Y QUE PASE LO QUE TENGA QUE PASAR"
+
+print("su longitud de la cadena 2 tiene: ", len(cadena2), "elementos") # imprime la longitud de la cadena 2
