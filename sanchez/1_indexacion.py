@@ -112,3 +112,11 @@ msg9="YO SOLO SE QUE NADA QUE NADA SE"
 
 # A D A N
 print(msg9[16], msg9[26], msg9[25], msg9[24])
+
+# INDEXACION 15:
+#      0         1         2
+#      01234567890123456789012
+msg10="PROGRAMACION ES CHEVERE"
+
+# C H A V I N
+print(msg10[16], msg10[17], msg10[5], msg10[19], msg10[9], msg10[11])
