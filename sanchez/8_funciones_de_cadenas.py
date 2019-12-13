@@ -74,3 +74,10 @@ cadena11="Si no esperas lo inesperado no lo reconocerás cuando llegue"
 # transformar en mayusculas
 mensaje=cadena11.upper()
 print(mensaje)
+
+# FUNCIONES DE MANIPULACION DE CADENA 12:
+cadena12="Los asnos prefieren la paja al oro"
+
+# transformar en mayusculas
+mensaje=cadena12.upper()
+print(mensaje)
