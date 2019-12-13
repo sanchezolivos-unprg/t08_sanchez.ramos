@@ -81,3 +81,10 @@ cadena12="Los asnos prefieren la paja al oro"
 # transformar en mayusculas
 mensaje=cadena12.upper()
 print(mensaje)
+
+# FUNCIONES DE MANIPULACION DE CADENA 13:
+cadena13=" Todas las leyes humanas se alimentan de la ley divina"
+
+# transformar en mayusculas
+mensaje=cadena13.upper()
+print(mensaje)
