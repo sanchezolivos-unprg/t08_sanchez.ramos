@@ -25,3 +25,10 @@ cadena3="LA CAPITAL DE PErU ES LIMA"
 # transformar en minusculas
 mensaje=cadena3.lower()
 print(mensaje)
+
+# FUNCIONES DE MANIPULACION 5:
+cadena4="BAJO EL ARBOL ENCONTRE UNA MANZANA"
+
+# Mostrar el nro de ocurrencias de la palabra MANZANA
+print("MANZANA", cadena4.count("MANZANA"))
+print("N ->", cadena4.count("N"))
