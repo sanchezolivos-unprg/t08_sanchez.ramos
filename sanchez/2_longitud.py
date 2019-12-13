@@ -25,3 +25,10 @@ print("la cadena 1 tiene", len(cadena1), "elementos") # imprime la longitud de l
 cadena2="VIVAMOS. Y QUE PASE LO QUE TENGA QUE PASAR"
 
 print("su longitud de la cadena 2 tiene: ", len(cadena2), "elementos") # imprime la longitud de la cadena 2
+
+# LONGITUD 5:
+#        0         1         2         3         4
+#        012345678901234567890123456789012345678901234
+cadena3="PON TU CONFIANZA EN DIOS, EL NUNCA TE FALLARA"
+
+print("su longitud de la cadena 3: ", cadena3, "tiene", len(cadena3), "elementos") # imprime la longitud de la cadena 3
