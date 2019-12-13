@@ -67,3 +67,10 @@ cadena10="TODO FLUYE, NADA PERMANECE"
 # transformar en minusculas
 mensaje=cadena10.lower()
 print(mensaje)
+
+# FUNCIONES DE MANIPULACION DE CADENA 11:
+cadena11="Si no esperas lo inesperado no lo reconocerás cuando llegue"
+
+# transformar en mayusculas
+mensaje=cadena11.upper()
+print(mensaje)
