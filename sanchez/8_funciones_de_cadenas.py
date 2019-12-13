@@ -46,3 +46,10 @@ cadena6="SUMMIT LA SUPERCOMPUTADORA MAS PODEROSA DEL MUNDO"
 # Mostrar el nro de ocurrencias de la palabra SUPERCOMPUTADORA
 print("SUPERCOMPUTADORA", cadena6.count("SUPERCOMPUTADORA"))
 print("E ->", cadena6.count("E"))
+
+# FUNCIONES DE MANIPULACION DE CADENA 8:
+cadena7="LOS GATOS ODIAN A LOS PERROS"
+
+# transformar en minusculas
+mensaje=cadena7.lower()
+print(mensaje)
