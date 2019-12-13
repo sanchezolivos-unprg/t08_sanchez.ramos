@@ -95,3 +95,10 @@ cadena14=" Muerte es todo lo que vemos despiertos; sueño lo que vemos dormidos"
 # Mostrar el nro de ocurrencias de la palabbra dormidos
 print("dormidos", cadena14.count("dormidos"))
 print("o ->", cadena14.count("o"))
+
+# FUNCIONES DE MANIPULACION DE CADENA 15:
+cadena15="LOS PERROS SOLO LADRAN A QUIENES NO CONOCEN"
+
+# transformar en minusculas
+mensaje=cadena15.lower()
+print(mensaje)
