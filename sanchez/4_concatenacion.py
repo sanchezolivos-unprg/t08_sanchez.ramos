@@ -23,3 +23,13 @@ num_cuerdas=6
 # agrupacion de cadenas
 mensaje3=("la " + instr + " es un instrumento de cuerda pulsada y tiene " + str(num_cuerdas) + " cuerdas")
 print(mensaje3)
+
+# CONCATENACION 4:
+est="elton jhonel"
+edad=20
+carr="INGENIERIA ELECTRONICA"
+esc="FACFYM"
+
+# agrupacion de cadenas
+mensaje4=("el estudiante " + est + " de " + str(edad) + " años estudia" + " la carrera de " + carr + " en la escuela de " + esc)
+print(mensaje4)
