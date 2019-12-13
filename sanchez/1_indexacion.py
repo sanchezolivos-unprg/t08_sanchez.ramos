@@ -48,3 +48,11 @@ msg1="COMO TE LLAMAS"
 
 # APLELIDO= TOMAS
 print(msg1[5], msg1[1], msg1[11], msg1[12], msg1[13])
+
+# INDEXACION 7:
+#     0         1
+#     0123456789012345687
+msg2="CUANTOS AÑOS TIENES"
+
+# nombre= A N A
+print(msg2[2], msg2[16], msg2[8])
