@@ -104,3 +104,11 @@ msg8="LA VIDA ES MUY CORTA PARA ABURRIRSE"
 
 # B R A S I L
 print(msg8[27], msg8[29], msg8[19], msg8[9], msg8[31], msg8[0])
+
+# INDEXACION 14:
+#     0         1         2         3
+#     0123456789012345678901234567890
+msg9="YO SOLO SE QUE NADA QUE NADA SE"
+
+# A D A N
+print(msg9[16], msg9[26], msg9[25], msg9[24])
