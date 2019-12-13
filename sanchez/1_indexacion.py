@@ -64,3 +64,10 @@ msg3="ASI ES LA VIDA"
 
 # nombre= ELSA
 print(msg3[4], msg3[7], msg3[1], msg3[13])
+
+# INDEXACION 9:
+#     0         1         2         3         4
+#     012345678901234567890123456789012345678901
+msg4="FACULTAD DE CIENCIAS FISICAS Y MATEMATICAS"
+
+print(msg4[21], msg4[1], msg4[12], msg4[21], msg4[29], msg4[31])
