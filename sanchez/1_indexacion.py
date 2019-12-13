@@ -56,3 +56,11 @@ msg2="CUANTOS AÑOS TIENES"
 
 # nombre= A N A
 print(msg2[2], msg2[16], msg2[8])
+
+# INDEXACION 8:
+#     0         1
+#     01234567890123
+msg3="ASI ES LA VIDA"
+
+# nombre= ELSA
+print(msg3[4], msg3[7], msg3[1], msg3[13])
