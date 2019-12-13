@@ -60,3 +60,10 @@ cadena8="los ricos tambien lloran"
 # transformar en mayusculas
 mensaje=cadena8.upper()
 print(mensaje)
+
+# FUNCIONES DE MANIPULACION DE CADENA 10:
+cadena10="TODO FLUYE, NADA PERMANECE"
+
+# transformar en minusculas
+mensaje=cadena10.lower()
+print(mensaje)
