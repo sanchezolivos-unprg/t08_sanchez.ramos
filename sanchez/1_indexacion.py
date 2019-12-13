@@ -96,3 +96,11 @@ msg7="SI PUEDES SOÑARLO, PUEDES HACERLO"
 
 # P A S A D O
 print(msg7[3], msg7[13], msg7[10], msg7[27], msg7[6], msg7[32])
+
+# INDEXACION 13:
+#     0         1         2         3
+#     01234567890123456789012345678901234
+msg8="LA VIDA ES MUY CORTA PARA ABURRIRSE"
+
+# B R A S I L
+print(msg8[27], msg8[29], msg8[19], msg8[9], msg8[31], msg8[0])
