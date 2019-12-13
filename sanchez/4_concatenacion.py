@@ -15,3 +15,11 @@ colegio="Pedro Abel Labathe Durand"
 # agrupacion de cadenas
 mensaje2=("el estudiante " + nombre + " tiene " + str(edad) + " años" + " y estudia en el colegio " + colegio)
 print(mensaje2)
+
+# CONCATENACION 3:
+instr="guitarra"
+num_cuerdas=6
+
+# agrupacion de cadenas
+mensaje3=("la " + instr + " es un instrumento de cuerda pulsada y tiene " + str(num_cuerdas) + " cuerdas")
+print(mensaje3)
