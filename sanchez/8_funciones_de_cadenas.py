@@ -39,3 +39,10 @@ cadena5="los gatos no nadan"
 # transformar en maysuculas
 mensaje=cadena5.upper()
 print(mensaje)
+
+# FUNCIONES DE MANIPULACION DE CADENA 7:
+cadena6="SUMMIT LA SUPERCOMPUTADORA MAS PODEROSA DEL MUNDO"
+
+# Mostrar el nro de ocurrencias de la palabra SUPERCOMPUTADORA
+print("SUPERCOMPUTADORA", cadena6.count("SUPERCOMPUTADORA"))
+print("E ->", cadena6.count("E"))
