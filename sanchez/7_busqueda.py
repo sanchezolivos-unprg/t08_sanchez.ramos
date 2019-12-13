@@ -21,3 +21,11 @@ cadena3="EL BAILE DEL MONO"
 
 print(cadena3.index("MONO"))
 # FIN_BUSQUEDA
+
+# BUSQUEDA DE CADENA 4:
+#        0         1         2         3
+#        0123456789012345678901234567890123
+cadena4="NUEVE MAS CINCO ES IGUAL A CATORCE"
+
+print(cadena4.index("CINCO"))
+# FIN_BUSQUEDA
