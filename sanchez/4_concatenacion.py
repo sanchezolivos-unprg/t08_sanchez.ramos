@@ -33,3 +33,13 @@ esc="FACFYM"
 # agrupacion de cadenas
 mensaje4=("el estudiante " + est + " de " + str(edad) + " años estudia" + " la carrera de " + carr + " en la escuela de " + esc)
 print(mensaje4)
+
+# CONCATENACION 5:
+est="MAURICIO"
+edad=27
+ciclo=5
+esc="FACEAC"
+
+# agrupacion de cadenas
+mensaje5=("el estudiante " + est + " de " + str(edad) + " años" + " pertenece en el ciclo " + str(ciclo) + " en la escuela de " + esc)
+print(mensaje5)
