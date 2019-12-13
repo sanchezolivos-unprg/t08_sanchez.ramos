@@ -24,3 +24,11 @@ fse="LA DEBILIDAD DE ACTITUD SE VUELVE DEBILIDAD DE CARACTER"
 
 # animal= RATA
 print(fse[49] + " " + fse[16] + " " + fse[20] + " " + fse[41])
+
+# INDEXACION 4:
+#      0         1         2
+#      01234567890123456789012
+frase="UNO ES EL QUE ELIGE SER"
+
+# Q U E S O
+print(frase[10], frase[0], frase[4], frase[20], frase[2])
