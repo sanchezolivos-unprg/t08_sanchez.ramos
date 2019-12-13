@@ -53,3 +53,10 @@ cadena7="LOS GATOS ODIAN A LOS PERROS"
 # transformar en minusculas
 mensaje=cadena7.lower()
 print(mensaje)
+
+# FUNCIONES DE MANIPULACION DE CADENA 9:
+cadena8="los ricos tambien lloran"
+
+# transformar en mayusculas
+mensaje=cadena8.upper()
+print(mensaje)
