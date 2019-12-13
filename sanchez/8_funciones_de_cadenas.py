@@ -11,3 +11,10 @@ cadena1="LOS VENGADORES FIN DE LA GUERRA"
 # Transformar el texto en minusculas
 mensaje=cadena1.lower()
 print(mensaje)
+
+# FUNCIONES DE MANIPULACION DE CADENA 3:
+cadena2="para los niños existe papa noel"
+
+# Transformar en mayusculas
+mensaje=cadena2.upper()
+print(mensaje)
