@@ -46,3 +46,10 @@ print("la longitud de la cadena 4:",cadena4, "tiene", len(cadena4), "elementos")
 cadena5="HAZ LAS PEQUEÑAS COSAS CON GRAN AMOR"
 
 print("la longitud de la cadena 5: ", cadena5, "tiene", len(cadena5), "elementos") # imprime la longitud de la cadena 5
+
+# LONGITUD 8:
+#        0         1         2         3
+#        012345678901234567890123456789012345678
+cadena6="QUE NADA NI NADIE CONDICIONE TU ALEGRIA"
+
+print("la longitud de la cadena 6: ", cadena6, "tiene", len(cadena6), "elementos") # imprime la longitud de la cadena 6
