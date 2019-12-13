@@ -32,3 +32,11 @@ frase="UNO ES EL QUE ELIGE SER"
 
 # Q U E S O
 print(frase[10], frase[0], frase[4], frase[20], frase[2])
+
+# INDEXACION 5:
+#    0         1         2
+#    012345678901234567890
+msg="RIE HOY, LLORA MAÑANA"
+
+# palabra= AMOR
+print(msg[-1], msg[-6], msg[-10], msg[-21])
