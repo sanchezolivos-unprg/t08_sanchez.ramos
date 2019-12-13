@@ -15,3 +15,12 @@ pma="EN LA PUERTA DE MI CASA PLANTE DOS ARBOLES UN TE QUIERO Y UN TE AMO"
 
 # nombres= patricia, elton
 print(pma[6] + " " + pma[20] + " " + pma[10] + " " + pma[36] + " " + pma[51] + " " + pma[19] + " " + pma[17] + " " + pma[35] + ", " + " " + pma[8] + " " + pma[25] + " " + pma[46] + " " + pma[66] + " " + pma[59])
+
+# INDEXACAION 3:
+# frase de Albert Einstein
+#    0         1         2         3         4         5
+#    0123456789012345678901234567890123456789012345678901234
+fse="LA DEBILIDAD DE ACTITUD SE VUELVE DEBILIDAD DE CARACTER"
+
+# animal= RATA
+print(fse[49] + " " + fse[16] + " " + fse[20] + " " + fse[41])
