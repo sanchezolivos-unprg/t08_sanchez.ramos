@@ -18,3 +18,10 @@ cadena2="para los niños existe papa noel"
 # Transformar en mayusculas
 mensaje=cadena2.upper()
 print(mensaje)
+
+# FUNCIONES DE MANIPULACION DE CADENA 4:
+cadena3="LA CAPITAL DE PErU ES LIMA"
+
+# transformar en minusculas
+mensaje=cadena3.lower()
+print(mensaje)
