@@ -80,3 +80,11 @@ msg5="SI NO SUMA QUE RESTE"
 
 # S A R A
 print(msg5[0], msg5[9], msg5[15], msg5[9])
+
+# INDEXACION 11:
+#     0         1
+#     0123456789012
+msg6="FELIZ NAVIDAD"
+
+# N A D I E
+print(msg6[6], msg6[11], msg6[12], msg6[9], msg6[1])
