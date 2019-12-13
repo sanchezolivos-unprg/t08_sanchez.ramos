@@ -32,3 +32,10 @@ cadena4="BAJO EL ARBOL ENCONTRE UNA MANZANA"
 # Mostrar el nro de ocurrencias de la palabra MANZANA
 print("MANZANA", cadena4.count("MANZANA"))
 print("N ->", cadena4.count("N"))
+
+# FUNCIONES DE MANIPULACION DE CADENA 6:
+cadena5="los gatos no nadan"
+
+# transformar en maysuculas
+mensaje=cadena5.upper()
+print(mensaje)
