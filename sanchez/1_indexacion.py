@@ -88,3 +88,11 @@ msg6="FELIZ NAVIDAD"
 
 # N A D I E
 print(msg6[6], msg6[11], msg6[12], msg6[9], msg6[1])
+
+# INDEXACION 12:
+#     0         1         2         3
+#     012345678901234567890123456789012
+msg7="SI PUEDES SOÑARLO, PUEDES HACERLO"
+
+# P A S A D O
+print(msg7[3], msg7[13], msg7[10], msg7[27], msg7[6], msg7[32])
