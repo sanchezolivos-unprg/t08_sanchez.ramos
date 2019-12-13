@@ -40,3 +40,11 @@ msg="RIE HOY, LLORA MAÑANA"
 
 # palabra= AMOR
 print(msg[-1], msg[-6], msg[-10], msg[-21])
+
+# INDEXACION 6:
+#     0         1
+#     01234567890123
+msg1="COMO TE LLAMAS"
+
+# APLELIDO= TOMAS
+print(msg1[5], msg1[1], msg1[11], msg1[12], msg1[13])
