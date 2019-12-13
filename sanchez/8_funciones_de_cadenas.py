@@ -88,3 +88,10 @@ cadena13=" Todas las leyes humanas se alimentan de la ley divina"
 # transformar en mayusculas
 mensaje=cadena13.upper()
 print(mensaje)
+
+# FUNCIONES DE MANIPULACION DE CADENA 14:
+cadena14=" Muerte es todo lo que vemos despiertos; sueño lo que vemos dormidos"
+
+# Mostrar el nro de ocurrencias de la palabbra dormidos
+print("dormidos", cadena14.count("dormidos"))
+print("o ->", cadena14.count("o"))
