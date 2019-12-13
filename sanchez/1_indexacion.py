@@ -71,3 +71,12 @@ print(msg3[4], msg3[7], msg3[1], msg3[13])
 msg4="FACULTAD DE CIENCIAS FISICAS Y MATEMATICAS"
 
 print(msg4[21], msg4[1], msg4[12], msg4[21], msg4[29], msg4[31])
+
+# INDEXACION 10:
+# mensaje
+#     0         1
+#     01234567890123456789
+msg5="SI NO SUMA QUE RESTE"
+
+# S A R A
+print(msg5[0], msg5[9], msg5[15], msg5[9])
