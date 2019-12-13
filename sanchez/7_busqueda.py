@@ -13,3 +13,11 @@ cadena2="SIETE MAS OCHO ES QUINCE"
 
 print(cadena2.find("OCHO"))
 # FIN_BUSQUEDA
+
+# BUSQUEDA DE CADENA 3:
+#        0         1
+#        01234567890123456
+cadena3="EL BAILE DEL MONO"
+
+print(cadena3.index("MONO"))
+# FIN_BUSQUEDA
